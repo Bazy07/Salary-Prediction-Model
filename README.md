@@ -1,5 +1,5 @@
 # Salary-Prediction-Model
-### Q.1- Your views about the problem statement?
+### About the problem statement?
 #### As TechWorks is a consulting company who provides top-notch IT talent to variety of business, to improvising the Machine Learning model to predict the accurate salary will help them in providing better service to other companies. Improvising ML model leads to :
 
 * Improving Recruitment process : By predicting the salary of newly hired employees which will lead to better recruitment outcomes.
