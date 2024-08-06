@@ -14,7 +14,7 @@ As TechWorks is a consulting company who provides top-notch IT talent to variety
 
 ## Tools and Library:
 * Jupyter Notebook
-* Pandas for Data MAnipulation
+* Pandas for Data Manipulation
 * Numpy for numerical operation
 * Sklearn for modelling
 * Matplotlib & Seaborn for Data Visualization
