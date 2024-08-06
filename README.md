@@ -8,10 +8,6 @@ As TechWorks is a consulting company who provides top-notch IT talent to variety
 ## Oh, a salary prediction model? 
 "I guess you've finally figured out how to tell people they’re overpaid or underpaid before their bosses do. Now everyone can have the joy of arguing with a machine about why they deserve a raise!"
 
-## Notebook Theme
-
-- Light/dark mode toggle
-
 ## Tools and Library:
 * Jupyter Notebook
 * Pandas for Data Manipulation
