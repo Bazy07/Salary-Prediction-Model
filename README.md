@@ -3,10 +3,6 @@
 
 As TechWorks is a consulting company who provides top-notch IT talent to variety of business, to improvising the Machine Learning model to predict the accurate salary will help them in providing better service to other companies.
 
-# How Perfect our model is fit
-![App Screenshot](https://github.com/fractalpriyanka/Salary-Prediction-Model/blob/main/RFchart.png?raw=true)
-
-
 ## Oh, a salary prediction model? 
 "I guess you've finally figured out how to tell people they’re overpaid or underpaid before their bosses do. Now everyone can have the joy of arguing with a machine about why they deserve a raise!"
 
