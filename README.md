@@ -16,4 +16,4 @@ As TechWorks is a consulting company who provides top-notch IT talent to variety
 * Matplotlib & Seaborn for Data Visualization
 
 ## Project Link : 
-#### https://github.com/fractalpriyanka/Salary-Prediction-Model/blob/main/Salary%20Predictor.ipynb
+#### [https://github.com/fractalpriyanka/Salary-Prediction-Model/blob/main/Salary%20Predictor.ipynb](https://github.com/fractalpriyanka/Salary-Prediction-Model/blob/main/Salary%20Predictor.ipynb)
